@@ -7,6 +7,6 @@ import { Producto } from '../../Classes/Producto';
   templateUrl:'app.component.html',
 })
 export class AppComponent  {
-producto: Producto=new Producto(1,'Patatas',1,3,'Patatas para freir')  
+producto: Producto=new Producto(1,'Patatas',1,2,'Patatas para freir')  
   
 }
